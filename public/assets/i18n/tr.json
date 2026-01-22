@@ -25,18 +25,17 @@
         "skysec-info": "SKYLAB kulübünün siber güvenlik ekibi",
         "team-member": "Ekip Üyesi",
         "currently": "Halen",
-        "weblab-info": "SKYLAB kulübünün web ekibi"
+        "weblab-info": "SKYLAB kulübünün web ekibi",
+        "ytu-ce": "YTÜ Bilgisayar Mühendisliği Bölümü"
     },
     "projects-page": {
         "pcs" : "Proje Koordinatörlüğü Süreç Kontrol ve Mail Sistemi",
-        "pcs-mess-1": "Bu projeyi Bilgisayar Projesi dersim kapsamında tamamladım.",
+        "pcs-mess-1": "Bu projeyi stajım kapsamında yapıyorum.",
         "pcs-mess-2": "Projenin amacı YTÜ BM bölümünde verilen Bilgisayar Projesi ve Bitirme Çalışması derslerinin daha kolay yönetilmesi için web tabanlı bir sistem geliştirmek.",
         "ekm": "Etüt ve Koçluk Merkezi",
         "ekm-mess-1-1": "Projemizi Çevik Yaklaşımlarla Yazılım Geliştirme dersi kapsamında hocamız",
         "ekm-mess-1-2": " ile yürüttük.",
         "ekm-mess-2": "Bu proje sayesinde Jira ve Miro gibi araçları kullanarak Agile yaklaşım ile proje geliştirmeyi deneyimledim.",
-        "ekm-mess-3-1": "Kodları incelemek için",
-        "ekm-mess-3-2": "'a göz atabilirsiniz.",
         "drc": "Demirelli Araç Kiralama",
         "drc-mess-1": "Staj projem olarak tamamladım.",
         "drc-mess-2": "Elden teslim araç kiralama işlemi yapan bir işletmenin işini görecek bir sistem kodladım.",
@@ -45,9 +44,6 @@
         "ma-mess-2": "Projenin amacı kullanıcıların Curve25519 şifreleme ve imzalama kullanarak tamamen anonim ve güvenli bir şekilde mesajlaşabilmesini sağlamak.",
         "gg-mess-1": "Bu projeyi Bitirme Çalışması dersim kapsamında geliştirmekteyiz.",
         "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak.",
-        "og-mess-1": "Projenin amacı kullanıcıların seviyesini seçeceği model ile istediği pozisyon üzerinden satranç oynayarak pratik yapmasını sağlamak.",
-        "og-mess-2": "Kullanılacak teknolojiler: .Net | Angular | Python",
-        "sg-mess-1": "SKYLAB kulübü altında SKYSEC olarak backend sunucularımızı korumak amaçlı IDS ve SIEM tabanlı güvenlik sistemi geliştiriyoruz.",
         "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştiriyoruz.",
         "hw-mess-2": "Ben .Net ile bu sistemin backend geliştirme kısmını yapıyorum."
     },
