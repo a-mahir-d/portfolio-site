@@ -10,8 +10,8 @@
     },
     "main-page": {
         "hi": "Merhaba, ben Ahmet Mahir Demirelli",
-        "current": "Yıldız Teknik Üniversitesinde 4. sınıf Bilgisayar Mühendisliği öğrencisiyim.",
-        "field": "Web geliştirme ile ilgileniyorum."
+        "current": "Yıldız Teknik Üniversitesinde Bilgisayar Mühendisliği",
+        "field": "Yazılım Geliştirme | .NET | Angular"
     },
     "experience-page": {
         "digital": "Dijital",
@@ -30,8 +30,9 @@
     },
     "projects-page": {
         "pcs" : "Proje Koordinatörlüğü Süreç Kontrol ve Mail Sistemi",
-        "pcs-mess-1": "Bu projeyi stajım kapsamında yapıyorum.",
+        "pcs-mess-1": "Bu projeyi stajım kapsamında tamamladım.",
         "pcs-mess-2": "Projenin amacı YTÜ BM bölümünde verilen Bilgisayar Projesi ve Bitirme Çalışması derslerinin daha kolay yönetilmesi için web tabanlı bir sistem geliştirmek.",
+        "pcs-mess-3": "Kullanılan Teknolojiler: .NET | Angular | PostgreSQL | Docker",
         "ekm": "Etüt ve Koçluk Merkezi",
         "ekm-mess-1-1": "Projemizi Çevik Yaklaşımlarla Yazılım Geliştirme dersi kapsamında hocamız",
         "ekm-mess-1-2": " ile yürüttük.",

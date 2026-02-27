@@ -10,8 +10,8 @@
     },
     "main-page": {
         "hi": "Hi, I'm Ahmet Mahir Demirelli",
-        "current": "I'm a 4th-year Computer Engineering student at Yildiz Technical University.",
-        "field": "I'm interested in web development."
+        "current": "Yıldız Technical University Computer Engineering",
+        "field": "Software Development | .NET | Angular"
     },
     "experience-page": {
         "digital": "Digital",
@@ -30,8 +30,9 @@
     },
     "projects-page": {
         "pcs": "Project Coordination Process Control and Mail System",
-        "pcs-mess-1": "I am developing this project as part of my internship.",
+        "pcs-mess-1": "I completed this project as part of my internship.",
         "pcs-mess-2": "The goal of the project is to develop a web-based system to facilitate the management of Computer Project and Graduation Project courses in the YTU Computer Engineering Department.",
+        "pcs-mess-3": "Used Technologies: .NET | Angular | PostgreSQL | Docker",
         "ekm": "Study and Coaching Center",
         "ekm-mess-1-1": "We carried out our project in the Software Development with Agile Approaches class with our instructor",
         "ekm-mess-1-2": ".",
