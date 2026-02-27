@@ -80,6 +80,33 @@ li{
     text-align: start;
 }
 
+.explanation ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.explanation ul li {
+    margin-bottom: 10px;
+    margin-left: 25px;
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+.sub-list li {
+    font-size: 0.95rem;
+    color: #adb5bd;
+    position: relative;
+    margin-bottom: 8px;
+}
+
+.sub-list li::before {
+    content: "▹";
+    color: #00d2ff;
+    position: absolute;
+    left: -18px;
+    font-weight: bold;
+}
+
 @media (max-width: 768px) {
     .experience-page-container {
         flex-direction: column;
