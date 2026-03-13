@@ -54,7 +54,6 @@
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",
-        "instructor": "Eğitmen",
-        "certificate-date": "Sertifika Tarihi"
+        "instructor": "Eğitmen"
     }
 }

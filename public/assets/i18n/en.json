@@ -54,7 +54,6 @@
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",
-        "instructor": "Instructor",
-        "certificate-date": "Certificate Date"
+        "instructor": "Instructor"
     }
 }
