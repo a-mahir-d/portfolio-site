@@ -49,8 +49,8 @@
         "ma-mess-2": "The purpose of the project is to enable users to communicate completely anonymously and securely by using Curve25519 for encryption and signing.",
         "gg-mess-1": "We are developing this project as part of our Graduation Project course.",
         "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model.",
-        "hw-mess-1": "As part of the CDTP course, we are developing a system that detects situations such as patient falls or abnormal heart rates and alerts the caregiver.",
-        "hw-mess-2": "I am working on the backend development of this system using .NET."
+        "hw-mess-1": "As part of the CDTP course, we developed a system that detects situations such as patient falls or abnormal heart rates and alerts the caregiver.",
+        "hw-mess-2": "I built the backend infrastructure with .NET, handling core modules such as user management and emergency alert notification."
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",

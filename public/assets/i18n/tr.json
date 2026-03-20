@@ -28,7 +28,7 @@
         "weblab-info": "SKYLAB kulübünün web ekibi",
         "ytu-ce": "YTÜ Bilgisayar Mühendisliği Bölümü",
         "my-contributions": "Katkılarım",
-        "skysec-contribution-1": "SKYDAYS'25 CTF yarışması kapsamında Web Güvenliği ve Tersine Mühendislik kategorilerinde özgün senaryolu sorular hazırladım.",
+        "skysec-contribution-1": "SKYDAYS25 CTF yarışması kapsamında Web Güvenliği ve Tersine Mühendislik kategorilerinde özgün senaryolu sorular hazırladım.",
         "atp-contribution-1": "Bir araç kiralama firmasının randevu işlemlerini yönetebileceği bir sistem kodladım.",
         "ytu-contribution-1": "YTÜ BM bölümünde verilen Bilgisayar Projesi ve Bitirme Çalışması derslerinin yönetilmesi için web tabanlı bir sistem geliştirdim."
     },
@@ -49,8 +49,8 @@
         "ma-mess-2": "Projenin amacı kullanıcıların Curve25519 şifreleme ve imzalama kullanarak tamamen anonim ve güvenli bir şekilde mesajlaşabilmesini sağlamak.",
         "gg-mess-1": "Bu projeyi Bitirme Çalışması dersim kapsamında geliştirmekteyiz.",
         "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak.",
-        "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştiriyoruz.",
-        "hw-mess-2": "Ben .Net ile bu sistemin backend geliştirme kısmını yapıyorum."
+        "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştirdik.",
+        "hw-mess-2": "Ben .NET ile bu sistemin kullanıcı işlemleri ve acil durum bildiriminden sorumlu olan backend geliştirme kısmını yaptım."
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",
