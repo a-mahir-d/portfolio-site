@@ -6,7 +6,8 @@
         "main-page": "Main Page",
         "projects": "Projects",
         "certificates": "Certificates",
-        "contact": "Contact Information"
+        "contact": "Contact Information",
+        "articles": "Articles"
     },
     "main-page": {
         "hi": "Hi, I'm Ahmet Mahir Demirelli",
