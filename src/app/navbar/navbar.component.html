@@ -1,22 +1,25 @@
 <div class="navbar-container">
-    <div class="img-container">
-      <img ngSrc="/assets/personal/amd.webp" [routerLink]="['/']" alt="Logo" height="40" width="40" priority>
+  <div class="img-container">
+    <img ngSrc="/assets/personal/amd.webp" [routerLink]="['/']" alt="Logo" height="40" width="40" priority>
+  </div>
+
+
+  @if (!isMenuOpen) {
+    <div class="links-container">
+      <a href="/" [ngClass]="{active: isActive('')}">{{ 'navbar.main-page' | translate }}</a>
+      <a href="/experience" [ngClass]="{active: isActive('experience')}">{{ 'public.experience' | translate }}</a>
+      <a href="/projects" [ngClass]="{active: isActive('projects')}">{{ 'navbar.projects' | translate }}</a>
+      <a href="/certificates" [ngClass]="{active: isActive('certificates')}">{{ 'navbar.certificates' | translate }}</a>
+      <a href="/contact" [ngClass]="{active: isActive('contact')}">{{ 'navbar.contact' | translate }}</a>
     </div>
+  }
 
+  <div class="hamburger-icon" (click)="toggleMenu()">
+    &#9776;
+  </div>
 
-    <div class="links-container" *ngIf="!isMenuOpen">
-        <a href="/" [ngClass]="{active: isActive('')}">{{ 'navbar.main-page' | translate }}</a>
-        <a href="/experience" [ngClass]="{active: isActive('experience')}">{{ 'public.experience' | translate }}</a>
-        <a href="/projects" [ngClass]="{active: isActive('projects')}">{{ 'navbar.projects' | translate }}</a>
-        <a href="/certificates" [ngClass]="{active: isActive('certificates')}">{{ 'navbar.certificates' | translate }}</a>
-        <a href="/contact" [ngClass]="{active: isActive('contact')}">{{ 'navbar.contact' | translate }}</a>
-    </div>
-
-    <div class="hamburger-icon" (click)="toggleMenu()">
-      &#9776;
-    </div>
-
-    <div class="links-container open" *ngIf="isMenuOpen">
+  @if (isMenuOpen) {
+    <div class="links-container open">
       <a href="/" [ngClass]="{ active: isActive('') }">{{ 'navbar.main-page' | translate }}</a>
       <a href="/experience" [ngClass]="{ active: isActive('experience') }">{{ 'public.experience' | translate }}</a>
       <a href="/projects" [ngClass]="{ active: isActive('projects') }">{{ 'navbar.projects' | translate }}</a>
@@ -24,9 +27,12 @@
       <a href="/contact" [ngClass]="{ active: isActive('contact') }">{{ 'navbar.contact' | translate }}</a>
       <button class="language-button" (click)="onLanguageChange()">{{ currentLanguage }}</button>
     </div>
+  }
 
 
-    <div class="language-container" *ngIf="!isMenuOpen">
+  @if (!isMenuOpen) {
+    <div class="language-container">
       <button class="language-button" (click)="onLanguageChange()">{{ currentLanguage }}</button>
     </div>
+  }
 </div>

@@ -1,4 +1,4 @@
-import { CommonModule, NgIf, NgOptimizedImage } from '@angular/common';
+import { CommonModule, NgOptimizedImage } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { TranslateModule } from '@ngx-translate/core';
@@ -6,7 +6,7 @@ import { LangugageService } from '../services/langugage.service';
 
 @Component({
   selector: 'app-navbar',
-  imports: [RouterLink, NgOptimizedImage, TranslateModule, CommonModule, NgIf],
+  imports: [RouterLink, NgOptimizedImage, TranslateModule, CommonModule],
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css'
 })
