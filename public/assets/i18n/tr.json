@@ -51,7 +51,9 @@
         "gg-mess-1": "Bu projeyi Bitirme Çalışması dersim kapsamında geliştirmekteyiz.",
         "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak.",
         "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştirdik.",
-        "hw-mess-2": "Ben .NET ile bu sistemin kullanıcı işlemleri ve acil durum bildiriminden sorumlu olan backend geliştirme kısmını yaptım."
+        "hw-mess-2": "Ben .NET ile bu sistemin kullanıcı işlemleri ve acil durum bildiriminden sorumlu olan backend geliştirme kısmını yaptım.",
+        "im-mess-1": "Bu proje küçük çaplı bir Linktree klonudur.",
+        "im-mess-2": "Kullanılan Teknolojiler: .NET | Angular | PostgreSQL"
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",

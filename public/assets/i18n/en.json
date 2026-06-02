@@ -45,13 +45,15 @@
         "drc": "Demirelli Car Rental",
         "drc-mess-1": "I completed this project as my internship project.",
         "drc-mess-2": "I coded a system for a business that handles in-person car rental operations.",
-        "drc-mess-3": "Technologies used: Angular, .NET, and MSSQL.",
+        "drc-mess-3": "Used Technologies: Angular, .NET, and MSSQL.",
         "ma-mess-1": "I developed it using Flutter and .NET.",
         "ma-mess-2": "The purpose of the project is to enable users to communicate completely anonymously and securely by using Curve25519 for encryption and signing.",
         "gg-mess-1": "We are developing this project as part of our Graduation Project course.",
         "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model.",
         "hw-mess-1": "As part of the CDTP course, we developed a system that detects situations such as patient falls or abnormal heart rates and alerts the caregiver.",
-        "hw-mess-2": "I built the backend infrastructure with .NET, handling core modules such as user management and emergency alert notification."
+        "hw-mess-2": "I built the backend infrastructure with .NET, handling core modules such as user management and emergency alert notification.",
+        "im-mess-1": "This project is a small Linktree clone.",
+        "im-mess-2": "Used Technologies: .NET | Angular | PostgreSQL"
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",
