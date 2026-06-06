@@ -53,7 +53,9 @@
         "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştirdik.",
         "hw-mess-2": "Ben .NET ile bu sistemin kullanıcı işlemleri ve acil durum bildiriminden sorumlu olan backend geliştirme kısmını yaptım.",
         "im-mess-1": "Bu proje küçük çaplı bir Linktree klonudur.",
-        "im-mess-2": "Kullanılan Teknolojiler: .NET | Angular | PostgreSQL"
+        "im-mess-2": "Kullanılan Teknolojiler: .NET | Angular | PostgreSQL",
+        "lp-mess-1": "Bu proje Dağıtık servislerin ürettiği log verilerini, SignalR WebSockets altyapısıyla sayfayı yenilemeye gerek kalmadan milisaniyeler içinde arayüze aktaran canlı bir dashboard sistemidir.",
+        "lp-mess-2": "Kullanılan Teknolojiler: .NET | Angular | Dapper | SignalR | PostgreSQL"
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",
