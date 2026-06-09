@@ -54,7 +54,7 @@
         "hw-mess-2": "Ben .NET ile bu sistemin kullanıcı işlemleri ve acil durum bildiriminden sorumlu olan backend geliştirme kısmını yaptım.",
         "im-mess-1": "Bu proje küçük çaplı bir Linktree klonudur.",
         "im-mess-2": "Kullanılan Teknolojiler: .NET | Angular | PostgreSQL",
-        "lp-mess-1": "Bu proje Dağıtık servislerin ürettiği log verilerini, SignalR WebSockets altyapısıyla sayfayı yenilemeye gerek kalmadan milisaniyeler içinde arayüze aktaran canlı bir dashboard sistemidir.",
+        "lp-mess-1": "Bu proje dağıtık servislerin ürettiği log verilerini, SignalR WebSockets altyapısıyla sayfayı yenilemeye gerek kalmadan milisaniyeler içinde arayüze aktaran canlı bir dashboard sistemidir.",
         "lp-mess-2": "Kullanılan Teknolojiler: .NET | Angular | Dapper | SignalR | PostgreSQL",
         "sp-mess-1": "Bu proje canlı fiyat değişimlerini Redis Pub/Sub mimarisiyle işleyerek SignalR üzerinden gerçek zamanlı olarak arayüze aktarır.",
         "sp-mess-2": "Kullanılan Teknolojiler: .NET | Angular | Redis | SignalR | Dapper | PostgreSQL"
